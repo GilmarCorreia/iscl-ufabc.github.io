@@ -1,0 +1,229 @@
+.mediaViewInfo {
+	--web-view-name: Researchers;
+	--web-view-id: Researchers;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Researchers;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Researchers {
+	position: absolute;
+	width: 1920px;
+	height: 1501px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Researchers;
+	--web-view-id: Researchers;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Caminho_5 {
+	filter: blur(5px);
+}
+.Caminho_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1176.658px;
+	height: 608.108px;
+	left: 354.934px;
+	top: 286.018px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_1___10 {
+	position: absolute;
+	width: 1920px;
+	height: 304px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ret_ngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 304px;
+	left: 0px;
+	top: 0px;
+}
+#Projects {
+	position: absolute;
+	left: 878.5px;
+	top: 244px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Projects.html;
+	cursor: pointer;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Publications {
+	position: absolute;
+	left: 580.5px;
+	top: 244px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Publications.html;
+	cursor: pointer;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Researchers_f {
+	position: absolute;
+	left: 1093.5px;
+	top: 244px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Contact {
+	position: absolute;
+	left: 1373.5px;
+	top: 244px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Home {
+	position: absolute;
+	left: 382.5px;
+	top: 244px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_10 {
+	position: absolute;
+	width: 775px;
+	height: 224px;
+	left: 573px;
+	top: 1277px;
+	overflow: visible;
+}
+#cmcc {
+	position: absolute;
+	width: 340px;
+	height: 93px;
+	left: 435px;
+	top: 58px;
+	overflow: visible;
+}
+#logotipo_ufabc_lateral {
+	position: absolute;
+	width: 290px;
+	height: 224px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_1 {
+	position: absolute;
+	width: 1920px;
+	height: 223px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#background_1 {
+	opacity: 0.46;
+	filter: blur(4px);
+	position: absolute;
+	width: 1920px;
+	height: 223px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Laborat_rio_de_Intelig_ncia__S {
+	position: absolute;
+	left: 0px;
+	top: 21px;
+	overflow: visible;
+	width: 1921px;
+	height: 174px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+#ISOCIALCOMPLEXLAB___UFABC {
+	position: absolute;
+	left: 760px;
+	top: 175px;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
