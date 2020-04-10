@@ -1,0 +1,1197 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home {
+	position: absolute;
+	width: 100%;
+	height: 1501px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Caminho_5 {
+	filter: blur(5px);
+}
+.Caminho_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1176.658px;
+	height: 608.109px;
+	left: 354.934px;
+	top: 286.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Symbol_1___7 {
+	position: absolute;
+	width: 1920px;
+	height: 304px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ret_ngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 304px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_1 {
+	position: absolute;
+	width: 1920px;
+	height: 223px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#background_1 {
+	opacity: 0.46;
+	filter: blur(4px);
+	position: absolute;
+	width: 1920px;
+	height: 223px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Laborat_rio_de_Intelig_ncia__S {
+	position: absolute;
+	left: 0px;
+	top: 21px;
+	overflow: visible;
+	width: 1921px;
+	height: 174px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+#ISOCIALCOMPLEXLAB___UFABC {
+	position: absolute;
+	left: 760px;
+	top: 175px;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_10 {
+	position: absolute;
+	width: 775px;
+	height: 224px;
+	left: 573px;
+	top: 1277px;
+	overflow: visible;
+}
+#cmcc {
+	position: absolute;
+	width: 340px;
+	height: 93px;
+	left: 435px;
+	top: 58px;
+	overflow: visible;
+}
+#logotipo_ufabc_lateral {
+	position: absolute;
+	width: 290px;
+	height: 224px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Projects {
+	position: absolute;
+	left: 878.5px;
+	top: 244px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Projects.html;
+	cursor: pointer;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Publications {
+	position: absolute;
+	left: 580.5px;
+	top: 244px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Publications.html;
+	cursor: pointer;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Researchers {
+	position: absolute;
+	left: 1093.5px;
+	top: 244px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Researchers.html;
+	cursor: pointer;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Repeti__o_de_grade_1 {
+	position: absolute;
+	width: 537px;
+	height: 625px;
+	left: 511px;
+	top: 304px;
+	overflow: hidden;
+}
+#Repeti__o_de_grade_1_0 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#testes {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_1 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 0px;
+	overflow: visible;
+}
+#testes_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_2 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 0px;
+	overflow: visible;
+}
+#testes_ba {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_3 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 0px;
+	overflow: visible;
+}
+#testes_bb {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_4 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 0px;
+	overflow: visible;
+}
+#testes_bc {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_5 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 80px;
+	overflow: visible;
+}
+#testes_bd {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_6 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 80px;
+	overflow: visible;
+}
+#testes_be {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_7 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 80px;
+	overflow: visible;
+}
+#testes_bf {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_8 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 80px;
+	overflow: visible;
+}
+#testes_bg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_9 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 80px;
+	overflow: visible;
+}
+#testes_bi {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_10 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 160px;
+	overflow: visible;
+}
+#testes_bk {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_11 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 160px;
+	overflow: visible;
+}
+#testes_bm {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_12 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 160px;
+	overflow: visible;
+}
+#testes_bo {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_13 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 160px;
+	overflow: visible;
+}
+#testes_bq {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_14 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 160px;
+	overflow: visible;
+}
+#testes_bs {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_15 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 240px;
+	overflow: visible;
+}
+#testes_bu {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_16 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 240px;
+	overflow: visible;
+}
+#testes_bw {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_17 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 240px;
+	overflow: visible;
+}
+#testes_by {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_18 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 240px;
+	overflow: visible;
+}
+#testes_b {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_19 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 240px;
+	overflow: visible;
+}
+#testes_ca {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_20 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 320px;
+	overflow: visible;
+}
+#testes_cb {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_21 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 320px;
+	overflow: visible;
+}
+#testes_cc {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_22 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 320px;
+	overflow: visible;
+}
+#testes_cd {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_23 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 320px;
+	overflow: visible;
+}
+#testes_ce {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_24 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 320px;
+	overflow: visible;
+}
+#testes_cf {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_25 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 400px;
+	overflow: visible;
+}
+#testes_cg {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_26 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 400px;
+	overflow: visible;
+}
+#testes_ch {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_27 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 400px;
+	overflow: visible;
+}
+#testes_ci {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_28 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 400px;
+	overflow: visible;
+}
+#testes_ck {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_29 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 400px;
+	overflow: visible;
+}
+#testes_cm {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_30 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 480px;
+	overflow: visible;
+}
+#testes_co {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_31 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 480px;
+	overflow: visible;
+}
+#testes_cq {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_32 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 480px;
+	overflow: visible;
+}
+#testes_cs {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_33 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 480px;
+	overflow: visible;
+}
+#testes_cu {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_34 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 480px;
+	overflow: visible;
+}
+#testes_cw {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_35 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 0px;
+	top: 560px;
+	overflow: visible;
+}
+#testes_cy {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_36 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 110px;
+	top: 560px;
+	overflow: visible;
+}
+#testes_c {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_37 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 220px;
+	top: 560px;
+	overflow: visible;
+}
+#testes_da {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_38 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 330px;
+	top: 560px;
+	overflow: visible;
+}
+#testes_db {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Repeti__o_de_grade_1_39 {
+	position: absolute;
+	width: 90px;
+	height: 60px;
+	left: 440px;
+	top: 560px;
+	overflow: visible;
+}
+#testes_dc {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(0,0,0,1);
+}
+#Contact {
+	position: absolute;
+	left: 1373.5px;
+	top: 244px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Home_c {
+	position: absolute;
+	left: 382.5px;
+	top: 244px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
