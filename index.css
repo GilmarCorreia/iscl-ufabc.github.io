@@ -15,7 +15,7 @@
 }
 #Researchers {
 	position: absolute;
-	width: 100%;
+	width: 1920px;
 	height: 1501px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
@@ -102,7 +102,7 @@
 	font-size: 60px;
 	color: rgba(255,255,255,1);
 }
-#Researchers_dg {
+#Researchers_f {
 	position: absolute;
 	left: 1093.5px;
 	top: 244px;
