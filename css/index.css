@@ -45,12 +45,18 @@
 
 @font-face {
 	font-family: "Microsoft Himalaya";
-	src: url("fonts/Himalaya.ttf");
+	src: url('fonts/MicrosoftHimalaya.eot');
+    src: url('fonts/MicrosoftHimalaya.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MicrosoftHimalaya.woff2') format('woff2'),
+        url('fonts/MicrosoftHimalaya.woff') format('woff'),
+        url('fonts/MicrosoftHimalaya.svg#MicrosoftHimalaya') format('svg');
 }
 
 @font-face {
 	font-family: "Roboto";
 	src: url("fonts/Roboto-Black.ttf");
+	src: url('fonts/roboto-black-webfont.woff2') format('woff2'),
+         url('fonts/roboto-black-webfont.woff') format('woff');
 }
 
 #About_the_ISOCIALCOMPLEXLAB_ {
