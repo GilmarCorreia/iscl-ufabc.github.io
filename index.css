@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: Home;
 	--web-view-id: Home;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
@@ -16,12 +18,14 @@
 }
 #Home {
 	position: absolute;
-	width: 100%;
+	width: 1920px;
 	height: 1501px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Home;
 	--web-view-id: Home;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-enable-scale-up: true;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
