@@ -16,10 +16,20 @@
 	box-sizing: border-box;
 	border: none;
 }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+	overflow-y: auto;
+}
+
+
+
+
 #Home {
 	position: absolute;
 	width: 1920px;
-	height: 1501px;
+	height: 1230px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Home;
@@ -30,55 +40,20 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-#Background {
-	filter: blur(5px);
-}
-.Background {
-	overflow: visible;
+.Ret_ngulo_6 {
 	position: absolute;
-	width: 1189.301px;
-	height: 1042.905px;
-	left: 354.934px;
-	top: 261.467px;
-	transform: matrix(1,0,0,1,0,0);
-}
-
-@font-face {
-	font-family: "Microsoft Himalaya";
-	src: url('fonts/MicrosoftHimalaya.eot');
-    src: url('fonts/MicrosoftHimalaya.eot?#iefix') format('embedded-opentype'),
-        url('fonts/MicrosoftHimalaya.woff2') format('woff2'),
-        url('fonts/MicrosoftHimalaya.woff') format('woff'),
-        url('fonts/MicrosoftHimalaya.svg#MicrosoftHimalaya') format('svg');
-}
-
-@font-face {
-	font-family: "Roboto";
-	src: url("fonts/Roboto-Black.ttf");
-	src: url('fonts/roboto-black-webfont.woff2') format('woff2'),
-         url('fonts/roboto-black-webfont.woff') format('woff');
-}
-
-#About_the_ISOCIALCOMPLEXLAB_ {
-	position: absolute;
-	left: 411px;
-	top: 329px;
 	overflow: visible;
-	width: 458px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Roboto;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(0,0,0,1);
+	width: 1200px;
+	height: 850px;
+	left: 360px;
+	top: 257px;
 }
 #Footer {
 	position: absolute;
 	width: 775px;
 	height: 224px;
 	left: 573px;
-	top: 1277px;
+	top: 1060px;
 	overflow: visible;
 }
 #cmcc {
@@ -97,6 +72,68 @@
 	top: 0px;
 	overflow: visible;
 }
+#Carousel {
+	position: absolute;
+	width: 1190px;
+	height: 946px;
+	left: 360px;
+	top: 257px;
+	overflow: visible;
+}
+#HomeText {
+	position: absolute;
+	width: 1100px;
+	height: 276px;
+	left: 411px;
+	top: 329px;
+	overflow: visible;
+}
+
+
+@font-face {
+	font-family: "Microsoft Himalaya";
+	src: url('fonts/MicrosoftHimalaya.eot');
+    src: url('fonts/MicrosoftHimalaya.eot?#iefix') format('embedded-opentype'),
+        url('fonts/MicrosoftHimalaya.woff2') format('woff2'),
+        url('fonts/MicrosoftHimalaya.woff') format('woff'),
+        url('fonts/MicrosoftHimalaya.svg#MicrosoftHimalaya') format('svg');
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url("fonts/Roboto-Black.ttf");
+	src: url('fonts/roboto-black-webfont.woff2') format('woff2'),
+         url('fonts/roboto-black-webfont.woff') format('woff');
+}
+
+#Lorem_ipsum_dolor_sit_amet__co {
+	position: absolute;
+	left: 0px;
+	top: 65px;
+	overflow: hidden;
+	width: 1101px;
+	height: 211px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#About_the_ISOCIALCOMPLEXLAB_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 458px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
 #Header {
 	position: absolute;
 	width: 2034px;
@@ -105,7 +142,7 @@
 	top: -26px;
 	overflow: visible;
 }
-.Caminho_1 {
+.bluebgd {
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
@@ -115,7 +152,7 @@
 	transform: matrix(1,0,0,1,0,0);
 }
 #background_1 {
-	opacity: 1.7;
+	opacity: 0.7;
 	filter: blur(4px);
 	position: absolute;
 	width: 2034px;
@@ -127,7 +164,7 @@
 #ISOCIALCOMPLEXLAB___UFABC {
 	position: absolute;
 	left: 817px;
-	top: 201px;
+	top: 197px;
 	overflow: visible;
 	width: 401px;
 	white-space: nowrap;
@@ -138,88 +175,10 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
-#Projects {
-	position: absolute;
-	left: 963.5px;
-	top: 263px;
-	overflow: visible;
-	width: 109px;
-	white-space: nowrap;
-	line-height: 90px;
-	margin-top: -20px;
-	text-align: center;
-	font-family: Microsoft Himalaya;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 50px;
-	color: rgba(255,255,255,1);
-}
-#Publications {
-	position: absolute;
-	left: 662.5px;
-	top: 263px;
-	overflow: visible;
-	width: 167px;
-	white-space: nowrap;
-	line-height: 90px;
-	margin-top: -20px;
-	text-align: center;
-	font-family: Microsoft Himalaya;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 50px;
-	color: rgba(255,255,255,1);
-}
-#Researchers {
-	position: absolute;
-	left: 1183.5px;
-	top: 263px;
-	overflow: visible;
-	width: 163px;
-	white-space: nowrap;
-	line-height: 90px;
-	margin-top: -20px;
-	text-align: center;
-	font-family: Microsoft Himalaya;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 50px;
-	color: rgba(255,255,255,1);
-}
-#Contact {
-	position: absolute;
-	left: 1457.5px;
-	top: 263px;
-	overflow: visible;
-	width: 105px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Microsoft Himalaya;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 50px;
-	color: rgba(255,255,255,1);
-}
-#Home_t {
-	position: absolute;
-	left: 447.5px;
-	top: 263px;
-	overflow: visible;
-	width: 83px;
-	white-space: nowrap;
-	line-height: 90px;
-	margin-top: -20px;
-	text-align: center;
-	font-family: Microsoft Himalaya;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 50px;
-	color: rgba(255,255,255,1);
-}
 #Laborat_rio_de_Intelig_ncia_So {
 	position: absolute;
-	left: 612px;
-	top: 28px;
+	left: 669px;
+	top: 46px;
 	overflow: visible;
 	width: 697px;
 	white-space: nowrap;
@@ -231,17 +190,154 @@
 	color: rgba(255,255,255,1);
 	letter-spacing: 0.3px;
 }
-#Lorem_ipsum_dolor_sit_amet__co {
+#PublicationsButton {
 	position: absolute;
-	left: 411px;
-	top: 394px;
-	overflow: hidden;
-	width: 1099px;
-	height: 910px;
-	text-align: left;
-	font-family: Arial;
+	width: 166px;
+	height: 50px;
+	left: 612.5px;
+	top: 263px;
+	overflow: visible;
+}
+#Publications {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 20px;
-	color: rgba(0,0,0,1);
+	font-size: 50px;
+	color: rgba(235,235,235,1);
+}
+#ResearchersButton {
+	position: absolute;
+	width: 162px;
+	height: 50px;
+	left: 1056.5px;
+	top: 263px;
+	overflow: visible;
+}
+#Researchers {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(235,235,235,1);
+}
+#ContactButton {
+	position: absolute;
+	width: 104px;
+	height: 50px;
+	left: 1480.5px;
+	top: 263px;
+	overflow: visible;
+}
+#Contact {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(235,235,235,1);
+}
+#HomeButton {
+	position: absolute;
+	width: 82px;
+	height: 50px;
+	left: 445.5px;
+	top: 263px;
+	overflow: visible;
+}
+#Home_bh {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(235,235,235,1);
+}
+#EventsButton {
+	position: absolute;
+	width: 92px;
+	height: 50px;
+	left: 1303.5px;
+	top: 263px;
+	overflow: visible;
+}
+#Events {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(235,235,235,1);
+}
+#projectButton {
+	position: absolute;
+	width: 108px;
+	height: 50px;
+	left: 863.5px;
+	top: 263px;
+	overflow: visible;
+}
+#Projects {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 90px;
+	margin-top: -20px;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(235,235,235,1);
+}
+#projectsMenu {
+	position: absolute;
+	width: 217px;
+	height: 174px;
+	left: -7.5px;
+	top: 42px;
+	display: none;
+	overflow: visible;
 }

@@ -1,3 +1,9 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+	overflow-y: auto;
+}
+
 @font-face {
 	font-family: "Microsoft Himalaya";
 	src: url('fonts/MicrosoftHimalaya.eot');
@@ -13,3 +19,4 @@
 	src: url('fonts/roboto-black-webfont.woff2') format('woff2'),
          url('fonts/roboto-black-webfont.woff') format('woff');
 }
+
