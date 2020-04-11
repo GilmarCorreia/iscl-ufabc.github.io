@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Microsoft Himalaya";
+	src: url("fonts/Himalaya.ttf");
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url("fonts/Roboto-Black.ttf");
+}

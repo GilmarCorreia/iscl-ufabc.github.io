@@ -42,6 +42,17 @@
 	top: 261.467px;
 	transform: matrix(1,0,0,1,0,0);
 }
+
+@font-face {
+	font-family: "Microsoft Himalaya";
+	src: url("fonts/Himalaya.ttf");
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url("fonts/Roboto-Black.ttf");
+}
+
 #About_the_ISOCIALCOMPLEXLAB_ {
 	position: absolute;
 	left: 411px;
@@ -82,10 +93,10 @@
 }
 #Header {
 	position: absolute;
-	width: 1920px;
-	height: 287px;
-	left: 0px;
-	top: 0px;
+	width: 2034px;
+	height: 313px;
+	left: -57px;
+	top: -26px;
 	overflow: visible;
 }
 .Caminho_1 {
@@ -93,24 +104,24 @@
 	position: absolute;
 	width: 1920px;
 	height: 287px;
-	left: 0px;
-	top: 0px;
+	left: 57px;
+	top: 26px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #background_1 {
-	opacity: 0.46;
+	opacity: 1.7;
 	filter: blur(4px);
 	position: absolute;
-	width: 1920px;
-	height: 223px;
+	width: 2034px;
+	height: 249px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 #ISOCIALCOMPLEXLAB___UFABC {
 	position: absolute;
-	left: 760px;
-	top: 175px;
+	left: 817px;
+	top: 201px;
 	overflow: visible;
 	width: 401px;
 	white-space: nowrap;
@@ -123,8 +134,8 @@
 }
 #Projects {
 	position: absolute;
-	left: 906.5px;
-	top: 237px;
+	left: 963.5px;
+	top: 263px;
 	overflow: visible;
 	width: 109px;
 	white-space: nowrap;
@@ -139,8 +150,8 @@
 }
 #Publications {
 	position: absolute;
-	left: 605.5px;
-	top: 237px;
+	left: 662.5px;
+	top: 263px;
 	overflow: visible;
 	width: 167px;
 	white-space: nowrap;
@@ -155,8 +166,8 @@
 }
 #Researchers {
 	position: absolute;
-	left: 1126.5px;
-	top: 237px;
+	left: 1183.5px;
+	top: 263px;
 	overflow: visible;
 	width: 163px;
 	white-space: nowrap;
@@ -171,8 +182,8 @@
 }
 #Contact {
 	position: absolute;
-	left: 1400.5px;
-	top: 237px;
+	left: 1457.5px;
+	top: 263px;
 	overflow: visible;
 	width: 105px;
 	white-space: nowrap;
@@ -185,8 +196,8 @@
 }
 #Home_t {
 	position: absolute;
-	left: 390.5px;
-	top: 237px;
+	left: 447.5px;
+	top: 263px;
 	overflow: visible;
 	width: 83px;
 	white-space: nowrap;
